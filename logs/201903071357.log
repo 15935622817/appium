@@ -1,0 +1,24 @@
+2019-03-07 13:57:24,899-BrowserEngine-INFO-选择apk类型android
+2019-03-07 13:57:24,903-BrowserEngine-INFO-版本是5.1.1
+2019-03-07 13:57:24,903-BrowserEngine-INFO-设备名字是127.0.0.1:62001
+2019-03-07 13:57:24,904-BrowserEngine-INFO-测试链接是http://127.0.0.1:4723/wd/hub
+2019-03-07 13:57:36,843-BrowserEngine-INFO-打开安卓系统
+2019-03-07 13:57:36,858-BrowserEngine-INFO-等 10s
+2019-03-07 13:57:46,921-base-INFO-找到页面元素
+2019-03-07 13:57:47,197-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="1f8e9f63-5798-4616-ae44-0ec809947a99", element="2")>
+2019-03-07 13:57:52,238-base-INFO-找到页面元素
+2019-03-07 13:57:52,497-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="1f8e9f63-5798-4616-ae44-0ec809947a99", element="4")>
+2019-03-07 13:57:57,538-base-INFO-找到页面元素
+2019-03-07 13:58:06,362-base-INFO-输入内容1114805590@qq.com
+2019-03-07 13:58:06,876-base-INFO-找到页面元素
+2019-03-07 13:58:14,124-base-INFO-输入内容1234567
+2019-03-07 13:58:14,616-base-INFO-找到页面元素
+2019-03-07 13:58:15,266-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="1f8e9f63-5798-4616-ae44-0ec809947a99", element="10")>
+2019-03-07 13:58:17,925-testlogin-INFO-登录成功
+2019-03-07 13:58:22,985-base-INFO-找到页面元素
+2019-03-07 13:58:23,223-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="1f8e9f63-5798-4616-ae44-0ec809947a99", element="13")>
+2019-03-07 13:58:28,258-base-INFO-找到页面元素
+2019-03-07 13:58:28,539-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="1f8e9f63-5798-4616-ae44-0ec809947a99", element="15")>
+2019-03-07 13:58:33,568-base-INFO-找到页面元素
+2019-03-07 13:58:34,321-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="1f8e9f63-5798-4616-ae44-0ec809947a99", element="17")>
+2019-03-07 13:58:40,795-BrowserEngine-INFO-离开app

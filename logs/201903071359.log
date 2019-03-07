@@ -1,0 +1,29 @@
+2019-03-07 13:59:40,747-BrowserEngine-INFO-选择apk类型android
+2019-03-07 13:59:40,747-BrowserEngine-INFO-版本是5.1.1
+2019-03-07 13:59:40,747-BrowserEngine-INFO-设备名字是127.0.0.1:62001
+2019-03-07 13:59:40,747-BrowserEngine-INFO-测试链接是http://127.0.0.1:4723/wd/hub
+2019-03-07 13:59:52,480-BrowserEngine-INFO-打开安卓系统
+2019-03-07 13:59:52,487-BrowserEngine-INFO-等 10s
+2019-03-07 14:00:02,576-base-INFO-找到页面元素
+2019-03-07 14:00:02,888-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="ce362763-2465-406c-bdc6-d27868d007ba", element="2")>
+2019-03-07 14:00:08,008-base-INFO-找到页面元素
+2019-03-07 14:00:08,266-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="ce362763-2465-406c-bdc6-d27868d007ba", element="4")>
+2019-03-07 14:00:13,292-base-INFO-找到页面元素
+2019-03-07 14:00:21,936-base-INFO-输入内容1114805590@qq.com
+2019-03-07 14:00:22,424-base-INFO-找到页面元素
+2019-03-07 14:00:29,629-base-INFO-输入内容1234567
+2019-03-07 14:00:30,145-base-INFO-找到页面元素
+2019-03-07 14:00:30,673-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="ce362763-2465-406c-bdc6-d27868d007ba", element="10")>
+2019-03-07 14:00:32,134-base-INFO-找到页面元素
+2019-03-07 14:00:33,095-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="ce362763-2465-406c-bdc6-d27868d007ba", element="12")>
+2019-03-07 14:00:34,104-base-INFO-找到页面元素
+2019-03-07 14:00:42,866-base-INFO-输入内容gggggg
+2019-03-07 14:00:43,399-base-INFO-回车成功
+2019-03-07 14:00:43,400-testa-INFO-搜索失败
+2019-03-07 14:00:49,526-base-INFO-找到页面元素
+2019-03-07 14:00:49,765-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="ce362763-2465-406c-bdc6-d27868d007ba", element="16")>
+2019-03-07 14:00:54,862-base-INFO-找到页面元素
+2019-03-07 14:00:55,143-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="ce362763-2465-406c-bdc6-d27868d007ba", element="18")>
+2019-03-07 14:01:00,173-base-INFO-找到页面元素
+2019-03-07 14:01:00,927-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="ce362763-2465-406c-bdc6-d27868d007ba", element="20")>
+2019-03-07 14:01:07,533-BrowserEngine-INFO-离开app

@@ -1,0 +1,36 @@
+2019-03-07 10:50:49,958-BrowserEngine-INFO-选择apk类型android
+2019-03-07 10:50:49,964-BrowserEngine-INFO-版本是5.1.1
+2019-03-07 10:50:49,965-BrowserEngine-INFO-设备名字是127.0.0.1:62001
+2019-03-07 10:50:49,965-BrowserEngine-INFO-测试链接是http://127.0.0.1:4723/wd/hub
+2019-03-07 10:51:01,307-BrowserEngine-INFO-打开安卓系统
+2019-03-07 10:51:01,316-BrowserEngine-INFO-等 10s
+2019-03-07 10:51:11,400-base-INFO-找到页面元素
+2019-03-07 10:51:11,646-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="2")>
+2019-03-07 10:51:16,688-base-INFO-找到页面元素
+2019-03-07 10:51:16,885-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="4")>
+2019-03-07 10:51:21,919-base-INFO-找到页面元素
+2019-03-07 10:51:30,450-base-INFO-输入内容1114805590@qq.com
+2019-03-07 10:51:30,947-base-INFO-找到页面元素
+2019-03-07 10:51:38,279-base-INFO-输入内容1234567
+2019-03-07 10:51:38,828-base-INFO-找到页面元素
+2019-03-07 10:51:39,287-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="10")>
+2019-03-07 10:51:44,336-base-INFO-找到页面元素
+2019-03-07 10:51:58,680-base-INFO-找到页面元素
+2019-03-07 10:51:59,773-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="14")>
+2019-03-07 10:52:02,826-base-INFO-找到页面元素
+2019-03-07 10:52:03,087-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="16")>
+2019-03-07 10:52:06,196-base-INFO-找到页面元素
+2019-03-07 10:52:06,459-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="18")>
+2019-03-07 10:52:09,502-base-INFO-找到页面元素
+2019-03-07 10:52:10,438-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="20")>
+2019-03-07 10:52:13,470-base-INFO-找到页面元素
+2019-03-07 10:52:13,873-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="22")>
+2019-03-07 10:52:22,519-base-INFO-找到页面元素
+2019-03-07 10:52:22,908-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="24")>
+2019-03-07 10:52:29,284-base-INFO-找到页面元素
+2019-03-07 10:52:29,681-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="26")>
+2019-03-07 10:52:34,732-base-INFO-找到页面元素
+2019-03-07 10:52:34,966-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="28")>
+2019-03-07 10:52:40,008-base-INFO-找到页面元素
+2019-03-07 10:52:40,704-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="fc51cc0f-2aac-4258-9b4c-a194c57d8b22", element="30")>
+2019-03-07 10:52:48,165-BrowserEngine-INFO-离开app

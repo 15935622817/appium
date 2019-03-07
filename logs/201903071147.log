@@ -1,0 +1,22 @@
+2019-03-07 11:47:20,842-BrowserEngine-INFO-选择apk类型android
+2019-03-07 11:47:20,845-BrowserEngine-INFO-版本是5.1.1
+2019-03-07 11:47:20,845-BrowserEngine-INFO-设备名字是127.0.0.1:62001
+2019-03-07 11:47:20,845-BrowserEngine-INFO-测试链接是http://127.0.0.1:4723/wd/hub
+2019-03-07 11:47:33,227-BrowserEngine-INFO-打开安卓系统
+2019-03-07 11:47:33,235-BrowserEngine-INFO-等 10s
+2019-03-07 11:47:43,280-base-INFO-找到页面元素
+2019-03-07 11:47:43,547-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="e1b0c3ef-7514-4278-b7e6-9af45bded43b", element="2")>
+2019-03-07 11:47:48,589-base-INFO-找到页面元素
+2019-03-07 11:47:48,851-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="e1b0c3ef-7514-4278-b7e6-9af45bded43b", element="4")>
+2019-03-07 11:47:53,879-base-INFO-找到页面元素
+2019-03-07 11:48:02,682-base-INFO-输入内容1114805590@qq.com
+2019-03-07 11:48:03,184-base-INFO-找到页面元素
+2019-03-07 11:48:10,456-base-INFO-输入内容1234567
+2019-03-07 11:48:10,977-base-INFO-找到页面元素
+2019-03-07 11:48:11,440-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="e1b0c3ef-7514-4278-b7e6-9af45bded43b", element="10")>
+2019-03-07 11:48:26,482-base-ERROR-页面未找到元素
+2019-03-07 11:48:26,482-base-ERROR-没被点击None
+2019-03-07 11:48:41,840-base-ERROR-页面未找到元素
+2019-03-07 11:48:41,840-base-ERROR-没被点击None
+2019-03-07 11:48:57,375-base-ERROR-页面未找到元素
+2019-03-07 11:48:58,712-BrowserEngine-INFO-离开app

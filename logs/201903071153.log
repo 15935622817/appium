@@ -1,0 +1,21 @@
+2019-03-07 11:53:34,009-BrowserEngine-INFO-选择apk类型android
+2019-03-07 11:53:34,012-BrowserEngine-INFO-版本是5.1.1
+2019-03-07 11:53:34,012-BrowserEngine-INFO-设备名字是127.0.0.1:62001
+2019-03-07 11:53:34,012-BrowserEngine-INFO-测试链接是http://127.0.0.1:4723/wd/hub
+2019-03-07 11:53:44,965-BrowserEngine-INFO-打开安卓系统
+2019-03-07 11:53:44,976-BrowserEngine-INFO-等 10s
+2019-03-07 11:53:55,041-base-INFO-找到页面元素
+2019-03-07 11:53:55,295-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="4ad3f3e1-ec91-4eec-a605-c80fbb89851c", element="2")>
+2019-03-07 11:53:56,270-base-INFO-找到页面元素
+2019-03-07 11:53:56,525-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="4ad3f3e1-ec91-4eec-a605-c80fbb89851c", element="4")>
+2019-03-07 11:53:57,909-base-INFO-找到页面元素
+2019-03-07 11:53:58,503-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="4ad3f3e1-ec91-4eec-a605-c80fbb89851c", element="6")>
+2019-03-07 11:53:59,342-base-INFO-找到页面元素
+2019-03-07 11:54:06,629-base-INFO-输入内容fwz
+2019-03-07 11:54:07,206-base-INFO-找到页面元素
+2019-03-07 11:54:15,238-base-INFO-输入内容fwz@qq.com
+2019-03-07 11:54:15,748-base-INFO-找到页面元素
+2019-03-07 11:54:23,125-base-INFO-输入内容7654321
+2019-03-07 11:54:23,616-base-INFO-找到页面元素
+2019-03-07 11:54:24,082-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="4ad3f3e1-ec91-4eec-a605-c80fbb89851c", element="14")>
+2019-03-07 11:55:00,051-register-ERROR-注册失败

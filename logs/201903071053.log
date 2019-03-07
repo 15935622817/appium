@@ -1,0 +1,38 @@
+2019-03-07 10:53:03,364-BrowserEngine-INFO-选择apk类型android
+2019-03-07 10:53:03,365-BrowserEngine-INFO-版本是5.1.1
+2019-03-07 10:53:03,365-BrowserEngine-INFO-设备名字是127.0.0.1:62001
+2019-03-07 10:53:03,365-BrowserEngine-INFO-测试链接是http://127.0.0.1:4723/wd/hub
+2019-03-07 10:53:14,499-BrowserEngine-INFO-打开安卓系统
+2019-03-07 10:53:14,508-BrowserEngine-INFO-等 10s
+2019-03-07 10:53:24,566-base-INFO-找到页面元素
+2019-03-07 10:53:24,955-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="2")>
+2019-03-07 10:53:29,983-base-INFO-找到页面元素
+2019-03-07 10:53:30,213-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="4")>
+2019-03-07 10:53:35,245-base-INFO-找到页面元素
+2019-03-07 10:53:44,171-base-INFO-输入内容1114805590@qq.com
+2019-03-07 10:53:44,694-base-INFO-找到页面元素
+2019-03-07 10:53:52,067-base-INFO-输入内容1234567
+2019-03-07 10:53:52,611-base-INFO-找到页面元素
+2019-03-07 10:53:53,126-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="10")>
+2019-03-07 10:53:58,174-base-INFO-找到页面元素
+2019-03-07 10:54:12,371-base-INFO-找到页面元素
+2019-03-07 10:54:13,540-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="14")>
+2019-03-07 10:54:24,055-test_file-ERROR-归档失败
+2019-03-07 10:54:27,084-base-INFO-找到页面元素
+2019-03-07 10:54:27,342-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="16")>
+2019-03-07 10:54:30,385-base-INFO-找到页面元素
+2019-03-07 10:54:30,777-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="18")>
+2019-03-07 10:54:33,834-base-INFO-找到页面元素
+2019-03-07 10:54:35,459-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="20")>
+2019-03-07 10:54:38,501-base-INFO-找到页面元素
+2019-03-07 10:54:38,899-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="22")>
+2019-03-07 10:54:47,665-base-INFO-找到页面元素
+2019-03-07 10:54:48,012-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="24")>
+2019-03-07 10:54:58,634-test_file-ERROR-回档失败
+2019-03-07 10:55:04,093-base-INFO-找到页面元素
+2019-03-07 10:55:04,342-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="26")>
+2019-03-07 10:55:09,405-base-INFO-找到页面元素
+2019-03-07 10:55:09,675-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="28")>
+2019-03-07 10:55:14,698-base-INFO-找到页面元素
+2019-03-07 10:55:15,336-base-INFO-被点击<appium.webdriver.webelement.WebElement (session="d060242d-a957-4851-82bb-82a2494f9cee", element="30")>
+2019-03-07 10:55:21,829-BrowserEngine-INFO-离开app
